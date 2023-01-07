@@ -16,7 +16,7 @@ _This edition: {{< param "Course_Edition_Current" >}} | Next edition: {{< param 
 
 ## Engineer data sets and manage research projects efficiently
 
-Welcome to the course website of dPrep.
+Welcome to the course website of dPrep. I need to change something in order to learn working with Git.
 
 This course teaches you to __efficiently manage empirical (marketing) research projects__, using tools such as [R/RStudio](https://rstudio.com) and [GitHub](https://github.com).
 
